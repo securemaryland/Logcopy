@@ -1,6 +1,3 @@
-LazyMap - Auto NMAP Scanning Script
-============================================
-
 # Log copy utility for pwnpad use by:
 # www.securemaryland.org
 # @securemaryland
